@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/DelineaXPM/dsv-sdk-go/v2/auth"
+	"github.com/michaelsauter/dsv-sdk-go/auth"
 )
 
 const (

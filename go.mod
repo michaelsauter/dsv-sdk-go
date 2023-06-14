@@ -1,4 +1,4 @@
-module github.com/DelineaXPM/dsv-sdk-go/v2
+module github.com/michaelsauter/dsv-sdk-go
 
 go 1.18
 
